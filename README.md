@@ -1,4 +1,4 @@
-## Pre-Reading: Get Your Mind Right (Required)
+## Pre-Reading: Get Your Mind Right
 
 As every successful person will tell you: *Attitude is everything*. 
 
