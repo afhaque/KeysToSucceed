@@ -10,7 +10,7 @@ Don't underestimate the amount of mental and emotional discipline this Bootcamp 
 
 ![DJ Khaled Keys to Success](https://media.giphy.com/media/l3zoTAbMu27n6zrH2/giphy.gif)
 
-### Top 10 Keys to Success
+### Major Keys to Success
 
 ### 1. A Little Humility Never Hurt Nobody...
 
@@ -48,7 +48,18 @@ For almost all of you, the first few few month of the program will be particular
 
 Realize that learning this craft will require consistent effort that will iteratively build your skills and understanding. What will seem challenging, confusing, and distressing in Week 3 -- will seem completely second nature by Week 24. *Intensity is no substitute for consistency.*
 
-### 5. Crumple the Paper Tiger...
+### 5. Not a Spectator Sport...
+As every musician, painter, or craftsperson will tell you -- one cannot learn a skill by simply reading, watching, or following along. Instead, it requires hours of deliberate practice. In the same way, coding, just as any other skill, will require you to step away from the spectator stands and into the fray yourself.  
+
+Know this now: *Going to  class, watching tutorials, reading articles, or participating in other passive activities will only get you so far*. You must spend significant hours actually *coding* to succeed in this bootcamp. As a benchmark, consider pending 70-80% of your outside class time writing and reviewing code. Only, the remaining 20% is for other passive activities.  
+
+*But I don't feel ready!*
+
+Often, we've seen that students who struggle the most, are the ones most intent on "learning everything" before they start coding themselves. Unfortunately, this is a recipe for stagnation. You will not be successful in this program unless you force yourself to work through confusion -- writing code, making errors, chasing them down, and learning from your mistakes.   
+
+This bootcamp is a mudslide -- there's no way to avoid getting your hands dirty.  
+
+### 6. Crumple the Paper Tiger...
 
 *"Am I doing this right...?"* 
 
@@ -62,13 +73,13 @@ Instead, try things on your own, test what you can, and do a bit of debugging fi
 
 Notice, the change in tone. Instead of asking for permission, remind yourself to "just try". The best way to fail is on your own terms. 
 
-### 6. Find a Squad...
+### 7. Find a Squad...
 
 For whatever reason, Hollywood has created a conception that every coder is an isolated loner -- programming in a cubicle. Don't let this be you!
 
 While in this program, make every effort to find friends, form study groups, and work together in and out of class. Sometimes, the fastest way to overcome a bug or understand a challenging concept is to have another pair of eyes or another perspective. Pair programming is a real thing for a reason!
 
-### 7. Master The Art of Google Fu...
+### 8. Master The Art of Google Fu...
 
 ![Google Fu](https://media.giphy.com/media/26BkO9XoLLpo2hbTG/giphy.gif)
 
@@ -78,7 +89,13 @@ As every professional developer will tell you -- coding isn't about "memorizatio
 
 To become a good developer requires an ability to work through problems and quickly "research" solutions ascertained by past developers. The field is constantly changing and new tools are always on the horizon. As you will find, every good developer is a great friend of Google (and Stack Overflow...). 
 
-### 8. Fixing Things Takes Time...
+### 9. Plan Often...
+
+As you will learn in the pseudo-coding module, the best first step in *every* coding challenge is to first create a plan. Break down the complex task in front of you into discrete, bite-sized coding challenges. Once you have a plan, write it out and always refer back to it. 
+
+Fundamentally, every task in code -- can and should be broken into smaller tasks. Don't try to bite off everything at once! You'll get lost in your own mind games.
+
+### 10. Fixing Things Takes Time...
 
 One of the most frustrating aspects to new students of software development is the sheer amount of time it takes to troubleshoot (or *debug*) issues in code. At time, it might even feel like "fixing" an issue is taking 3-4 times as long as conceiving the original solution.  
 
@@ -86,13 +103,12 @@ One of the most frustrating aspects to new students of software development is t
 
 For novices and experts alike, fixing code is often the most time-consuming task of all. Instead, of seeing these hours spent as a "distraction" getting in the way, learn to see them as a critical part of the learning process. Each bug you pursue is a lengthy lesson that adds to your arsenal of understanding.
 
-### 9. Plan Often...
+### 11. Self-Care is Key....
+While we've probably traumatized you with all the talk of challenges, difficulties, and effort -- we do *want* you to take care of yourself. Throughout the program, be sure to sleep, exercise, and eat nutritions meals. These moments of self-care are extremely important for your mind to be healthy. Taking breaks is encouraged!
 
-As you will learn in the pseudo-coding module, the best first step in *every* coding challenge is to first create a plan. Break down the complex task in front of you into discrete, bite-sized coding challenges. Once you have a plan, write it out and always refer back to it. 
+In fact, you will find that that some of the best problem-solving happens during breaks. "Sleeping on a problem" is often a very real solution to your most challenging coding issues. Try to walk into  class each day, ready and refreshed for new learning. We want happy, energized people in our classrooms. Not dead robots.  
 
-Fundamentally, every task in code -- can and should be broken into smaller tasks. Don't try to bite off everything at once! You'll get lost in your own mind games.
-
-### 10. You Can Do This!
+### 12. You Can Do This!
 
 This last piece of advice is the most important. Remind yourself each day that you *can* do this. We've seen through many classrooms, students from all backgrounds, experiences, and personal situations persevere and succeed through this program. 
 
