@@ -1,4 +1,4 @@
-## Module #3 - Get Your Mind Right (Required)
+## Pre-Reading: Get Your Mind Right (Required)
 
 As every successful person will tell you: *Attitude is everything*. 
 
