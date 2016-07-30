@@ -1,4 +1,4 @@
-## Module #3 - Get Your Mind Right (Required)
+## Coding Bootcamp - Get Your Mind Right
 
 As every successful person will tell you: *Attitude is everything*. 
 
