@@ -1,4 +1,4 @@
-## Assignment #3: My Greatest Challenge
+## Reflection Assignment: My Greatest Challenge
 
 #### Overview:
 This assignment is a quick self-reflection to ensure you've read the previous chapter.
