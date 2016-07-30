@@ -8,8 +8,9 @@ Don't underestimate the amount of mental and emotional discipline this Bootcamp 
 
 (p.s. Don't breeze through these! They are *important*!)
 
-#### Keys to Success
 ![DJ Khaled Keys to Success](https://media.giphy.com/media/l3zoTAbMu27n6zrH2/giphy.gif)
+
+#### Top 10 Keys to Success
 
 **1. A Little Humility Never Hurt Nobody...**
 
@@ -19,7 +20,7 @@ This will be a *very* challenging identity for many of you. If you've had past a
 
 Yet, heed this advice now: *"A humble learner is the most ready learner."* Take each class as a new opportunity to be proven a fool and learn anew. Six months from now, you will marvel at the mastery you gained.
 
-**3. There is No Coding Pill...**
+**2. There is No Coding Pill...**
 
 The greatest self-lie you can tell is that any program will *teach* you to code. Instead, it's important to realize that, in order to succeed, *YOU* must own your learning experience. 
 
@@ -69,9 +70,7 @@ As every professional developer will tell you -- coding isn't about "memorizatio
 
 To become a good developer requires an ability to work through problems and quickly "research" solutions ascertained by past developers. The field is constantly changing and new tools are always on the horizon. As you will find, every good developer is a great friend of Google (and Stack Overflow...). 
 
-![Stack Overflow](http://cdn.someecards.com/someecards/usercards/MjAxMy05MWU0NTY2NjRmYzQ3YTE3_5272a5181c0a3.png)
-
-**8. Fixing Things Takes Time....**
+**8. Fixing Things Takes Time...**
 
 One of the most frustrating aspects to new students of software development is the sheer amount of time it takes to troubleshoot (or *debug*) issues in code. At time, it might even feel like "fixing" an issue is taking 3-4 times as long as conceiving the original solution.  
 
@@ -79,9 +78,7 @@ One of the most frustrating aspects to new students of software development is t
 
 For novices and experts alike, fixing code is often the most time-consuming task of all. Instead, of seeing these hours spent as a "distraction" getting in the way, learn to see them as a critical part of the learning process. Each bug you pursue is a lengthy lesson that adds to your arsenal of understanding.
 
-![Debugging](http://s2.quickmeme.com/img/32/3231c171a34d1b88ab1768b1ba5ef9f0e9b035f523e197f2b99f83b7856826e3.jpg)
-
-**9. Plan Often...** 
+**9. Plan Often...**
 
 As you will learn in the pseudocoding module, the best first step in *every* coding challenge is to first create a plan. Break down the complex task in front of you into discrete, bite-sized coding challenges. Once you have a plan, write it out and always refer back to it. 
 
@@ -97,15 +94,15 @@ You have *everything* it takes to learn this craft and gain the opportunities th
 
 -------
 
-### Video (Required)
+### Video (Recommended)
 * [Grit: The Power of Passion and Perseverence](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance?language=en) 
 
 ### Assignment (Required): 
 * [My Greatest Challenge](Assignment.md)
 
 ### Additional Reading:
-* [Learning to Code? Train Your Brain to Think Like a Computer](http://gigabytesandtea.com/learning-code-train-your-brain-to-think-like-a-computer/)
-* [How to Tackle Something You Have No Idea How to Do](https://www.themuse.com/advice/how-to-tackle-something-you-have-no-idea-how-to-do)
+* [Learning Programming: How I Overcame Initial Resistance](http://twonontechies.com/how-i-overcame-initial-resistance/)
+* [Learning to Program at Age 30](http://www.zdnet.com/article/learning-to-program-at-age-30-heres-how-im-approaching-it/)
 
 -------
 
