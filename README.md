@@ -56,8 +56,7 @@ Know this now: *Going to  class, watching tutorials, reading articles, or partic
 *But I don't feel ready!*
 
 Often, we've seen that students who struggle the most, are the ones most intent on "learning everything" before they start coding themselves. Unfortunately, this is a recipe for stagnation. You will not be successful in this program unless you force yourself to work through confusion -- writing code, making errors, chasing them down, and learning from your mistakes.   
-
-This bootcamp is a mudslide -- there's no way to avoid getting your hands dirty.  
+This bootcamp is a mudslide. There's just no way to avoid getting your hands dirty.  
 
 ### 6. Crumple the Paper Tiger...
 
