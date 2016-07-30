@@ -70,8 +70,6 @@ As every professional developer will tell you -- coding isn't about "memorizatio
 
 To become a good developer requires an ability to work through problems and quickly "research" solutions ascertained by past developers. The field is constantly changing and new tools are always on the horizon. As you will find, every good developer is a great friend of Google (and Stack Overflow...). 
 
-![Stack Overflow](http://cdn.someecards.com/someecards/usercards/MjAxMy05MWU0NTY2NjRmYzQ3YTE3_5272a5181c0a3.png)
-
 ### 8. Fixing Things Takes Time....
 
 One of the most frustrating aspects to new students of software development is the sheer amount of time it takes to troubleshoot (or *debug*) issues in code. At time, it might even feel like "fixing" an issue is taking 3-4 times as long as conceiving the original solution.  
@@ -79,8 +77,6 @@ One of the most frustrating aspects to new students of software development is t
 *Know in advance, that this is completely normal.*
 
 For novices and experts alike, fixing code is often the most time-consuming task of all. Instead, of seeing these hours spent as a "distraction" getting in the way, learn to see them as a critical part of the learning process. Each bug you pursue is a lengthy lesson that adds to your arsenal of understanding.
-
-![Debugging](http://s2.quickmeme.com/img/32/3231c171a34d1b88ab1768b1ba5ef9f0e9b035f523e197f2b99f83b7856826e3.jpg)
 
 ### 9. Plan Often...
 
